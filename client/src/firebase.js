@@ -8,7 +8,7 @@ const firebaseConfig = {
   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "realestate-ad68f.firebaseapp.com",
   projectId: "realestate-ad68f",
-  storageBucket: "realestate-ad68f.appspot.com",
+  storageBucket: "gs://realestate-ad68f.appspot.com",
   messagingSenderId: "374901099024",
   appId: "1:374901099024:web:ba112f4389e7d90b911895"
 };
